@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-resume.git/static/css/main.3ddc2a09.chunk.css",
-    "main.js": "/react-resume.git/static/js/main.dc74efcb.chunk.js",
-    "main.js.map": "/react-resume.git/static/js/main.dc74efcb.chunk.js.map",
-    "runtime-main.js": "/react-resume.git/static/js/runtime-main.e4c86b13.js",
-    "runtime-main.js.map": "/react-resume.git/static/js/runtime-main.e4c86b13.js.map",
-    "static/js/2.c9ff96f3.chunk.js": "/react-resume.git/static/js/2.c9ff96f3.chunk.js",
-    "static/js/2.c9ff96f3.chunk.js.map": "/react-resume.git/static/js/2.c9ff96f3.chunk.js.map",
-    "index.html": "/react-resume.git/index.html",
-    "static/css/main.3ddc2a09.chunk.css.map": "/react-resume.git/static/css/main.3ddc2a09.chunk.css.map",
-    "static/js/2.c9ff96f3.chunk.js.LICENSE.txt": "/react-resume.git/static/js/2.c9ff96f3.chunk.js.LICENSE.txt",
-    "static/media/dev-photo.7525ca3e.jpg": "/react-resume.git/static/media/dev-photo.7525ca3e.jpg",
-    "static/media/style.css": "/react-resume.git/static/media/hire-bg.a3062c13.jpg",
-    "static/media/midlle.3714c682.svg": "/react-resume.git/static/media/midlle.3714c682.svg",
-    "static/media/penguin.0e4531a7.webp": "/react-resume.git/static/media/penguin.0e4531a7.webp"
+    "main.css": "/react-resume/static/css/main.d4b0cae7.chunk.css",
+    "main.js": "/react-resume/static/js/main.dc74efcb.chunk.js",
+    "main.js.map": "/react-resume/static/js/main.dc74efcb.chunk.js.map",
+    "runtime-main.js": "/react-resume/static/js/runtime-main.976bc871.js",
+    "runtime-main.js.map": "/react-resume/static/js/runtime-main.976bc871.js.map",
+    "static/js/2.c9ff96f3.chunk.js": "/react-resume/static/js/2.c9ff96f3.chunk.js",
+    "static/js/2.c9ff96f3.chunk.js.map": "/react-resume/static/js/2.c9ff96f3.chunk.js.map",
+    "index.html": "/react-resume/index.html",
+    "static/css/main.d4b0cae7.chunk.css.map": "/react-resume/static/css/main.d4b0cae7.chunk.css.map",
+    "static/js/2.c9ff96f3.chunk.js.LICENSE.txt": "/react-resume/static/js/2.c9ff96f3.chunk.js.LICENSE.txt",
+    "static/media/dev-photo.7525ca3e.jpg": "/react-resume/static/media/dev-photo.7525ca3e.jpg",
+    "static/media/style.css": "/react-resume/static/media/hire-bg.a3062c13.jpg",
+    "static/media/midlle.3714c682.svg": "/react-resume/static/media/midlle.3714c682.svg",
+    "static/media/penguin.0e4531a7.webp": "/react-resume/static/media/penguin.0e4531a7.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4c86b13.js",
+    "static/js/runtime-main.976bc871.js",
     "static/js/2.c9ff96f3.chunk.js",
-    "static/css/main.3ddc2a09.chunk.css",
+    "static/css/main.d4b0cae7.chunk.css",
     "static/js/main.dc74efcb.chunk.js"
   ]
 }
