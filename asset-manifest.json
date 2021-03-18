@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-resume/static/css/main.d4b0cae7.chunk.css",
-    "main.js": "/react-resume/static/js/main.4f7a6b28.chunk.js",
-    "main.js.map": "/react-resume/static/js/main.4f7a6b28.chunk.js.map",
+    "main.js": "/react-resume/static/js/main.de35bc74.chunk.js",
+    "main.js.map": "/react-resume/static/js/main.de35bc74.chunk.js.map",
     "runtime-main.js": "/react-resume/static/js/runtime-main.976bc871.js",
     "runtime-main.js.map": "/react-resume/static/js/runtime-main.976bc871.js.map",
     "static/js/2.c9ff96f3.chunk.js": "/react-resume/static/js/2.c9ff96f3.chunk.js",
@@ -10,6 +10,9 @@
     "index.html": "/react-resume/index.html",
     "static/css/main.d4b0cae7.chunk.css.map": "/react-resume/static/css/main.d4b0cae7.chunk.css.map",
     "static/js/2.c9ff96f3.chunk.js.LICENSE.txt": "/react-resume/static/js/2.c9ff96f3.chunk.js.LICENSE.txt",
+    "static/media/Dribbble.3821de1e.svg": "/react-resume/static/media/Dribbble.3821de1e.svg",
+    "static/media/Skype.3569250e.svg": "/react-resume/static/media/Skype.3569250e.svg",
+    "static/media/Twitter.96096aab.svg": "/react-resume/static/media/Twitter.96096aab.svg",
     "static/media/dev-photo.7525ca3e.jpg": "/react-resume/static/media/dev-photo.7525ca3e.jpg",
     "static/media/style.css": "/react-resume/static/media/hire-bg.a3062c13.jpg",
     "static/media/midlle.3714c682.svg": "/react-resume/static/media/midlle.3714c682.svg",
@@ -19,6 +22,6 @@
     "static/js/runtime-main.976bc871.js",
     "static/js/2.c9ff96f3.chunk.js",
     "static/css/main.d4b0cae7.chunk.css",
-    "static/js/main.4f7a6b28.chunk.js"
+    "static/js/main.de35bc74.chunk.js"
   ]
 }
